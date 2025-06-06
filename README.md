@@ -1,6 +1,6 @@
-# 🚀 Starter Kit Laravel 12 + React 19
+# 🚀 Starter Kit Laravel 12 + React 19 + TypeScript
 
-Proyek ini adalah aplikasi web modern yang dibangun menggunakan **Laravel 12** sebagai backend framework, dipadukan dengan **React 19** di sisi frontend melalui **Inertia.js**. Styling didukung oleh **TailwindCSS** dan komponen UI modern dari **shadcn/ui**, menghasilkan performa aplikasi yang responsif, efisien, dan clean.
+Proyek ini adalah aplikasi web modern yang dibangun menggunakan **Laravel 12** sebagai backend framework, dipadukan dengan **React 19** dan **TypeScript** di sisi frontend melalui **Inertia.js**. Styling didukung oleh **TailwindCSS** dan komponen UI modern dari **shadcn/ui**, menghasilkan performa aplikasi yang responsif, efisien, dan clean.
 
 ---
 
@@ -8,6 +8,7 @@ Proyek ini adalah aplikasi web modern yang dibangun menggunakan **Laravel 12** s
 
 - **[Laravel 12](https://laravel.com/docs/12.x)** — Elegant PHP Framework for Modern Web Applications.
 - **[React 19](https://react.dev/)** — A JavaScript library for building interactive user interfaces.
+- **[TypeScript](https://www.typescriptlang.org/)** — Strongly typed programming language that builds on JavaScript, adding optional static typing features.
 - **[Inertia.js](https://inertiajs.com/)** — The modern monolith approach: Server-driven apps with client-side rendering.
 - **[TailwindCSS](https://tailwindcss.com/)** — Utility-first CSS framework for rapid UI development.
 - **[shadcn/ui](https://ui.shadcn.dev/)** — Beautifully designed, customizable React components built on Radix UI and TailwindCSS.
